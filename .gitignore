@@ -1,0 +1,15 @@
+#carpeta de cache de python
+__pycache__/
+
+#archivos compilados de python
+*.pyc
+
+# entornos virtuales
+venv/
+.env/
+env/
+.venv/
+
+#archivos del sistema
+Thumbs.db
+Desktop.ini
